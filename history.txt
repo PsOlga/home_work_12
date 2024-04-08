@@ -1,0 +1,85 @@
+    1   git status
+    2  git add song.txt
+    3  git status
+    4  ssh -T
+    5  cd
+    6  mkdir -p Newfolder/HA
+    7  git clone 
+    8  git clone 
+    9  git@github.com:PsOlga/git_intro.git
+   10  git clone git@github.com:PsOlga/git_intro.git
+   11  git add coffee.jpg
+   12  ls -al .git
+   13  ls -al git_intro
+   14  git init
+   15  git add         coffee.jpg
+   16  cd IT-CH/GIT/Work/lernen
+   17  git add coffee.jpg
+   18  git commit -m "Added photo"
+   19  git push 
+   20  ls - al
+   21  ls -al git_intro
+   22  ls -al IT-CH/GIT/Work/
+   23   cd IT-CH/GIT/Work
+   24  cd ..
+   25  ls - al
+   26  ls - la
+   27  ls -al
+   28  cd ..
+   29  ls -al
+   30  cd Work/git_intro
+   31  git add coffee.jpg
+   32  git commit -m "add coffee"
+   33  git push
+   34  git config --glibal user.name
+   35  git config --global user.email
+   36  git config --global user.email psyrniko@gmail.com
+   37  git config --global user.name~
+   38  [200~git config --global -l~
+   39  git config --global -l
+   40  git config --global user.name PsOlga
+   41  git config --global -l
+   42  cd
+   43  mkdir -p /IT-CH/GIT/Work
+   44  mkdir -p /Git/Work
+   45  mkdir /git
+   46  mkdir -p IT-CH/GIT/Work
+   47  cd IT-CH/GIT/Work
+   48  git clone git@github.com:PsOlga/lernen.git
+   49  ls -al
+   50  cd lernen/
+   51  cd IT-CH/GIT/Work
+   52  git clone git@github.com:PsOlga/lernen.git
+   53  ls -al
+   54  nano song.txt
+   55  git status
+   56  ls -al
+   57  pwd
+   58  ls /IT-CH/GIT/Work/lernen
+   59  ls -al /ICH/IT-CH/GIT/Work
+   60  /c/Users/ICH/IT-CH/GIT/Work
+   61  CH@DESKTOP-SL6RVM4 MINGW64 ~/IT-CH/GIT/Work
+   62  $ /
+   63  ls -al /IT-CH/GIT/Work
+   64  ls -al
+   65  mkdir GIT
+   66  ls -al
+   67  cd ..
+   68  git clone github.com/PsOlga/git_intro.git
+   69  ls -al
+   70  cd home-work12
+   71  ls -al
+   72  cd GIT
+   73  ls -al
+   74  git clone git@github.com:PsOlga/home_work_12.git
+   75  ls -al
+   76  cd home_work_12/
+   77  nano .gitignore
+   78  git checkout -b feature
+   79  git add README.md .gitignore
+   80  git commit -m "Initial commit"
+   81  git push origin feature
+   82  git commit --amend -m "initial commit amended"
+   83  git checkout main
+   84  git merge feature
+   85  history > history.txt
